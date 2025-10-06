@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+
+# Logs
+*.log
+
+# IMPORTANTE: NO ignorar .env.local
+# Se subirá al repositorio
